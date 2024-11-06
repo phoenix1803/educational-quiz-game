@@ -1,4 +1,4 @@
-# YOUR PROJECT TITLE
+# EDUCATIONAL QUIZ GAME
 #### Video Demo:  <URL HERE>
 #### Description:
 
